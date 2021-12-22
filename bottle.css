@@ -1,0 +1,7 @@
+body{
+background-size: cover;
+}
+canvas{
+box-shadow: 10px 10px 10px rosybrown;
+border-radius: 10px;
+}
